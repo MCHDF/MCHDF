@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # MCHDF
-[<img src="https://raw.githubusercontent.com/MCHDF/MCHDF/main/discord.png" width="32" height="32" align="center">MCHDF#9999](https://discord.com)<br>
+[<img src="https://raw.githubusercontent.com/MCHDF/MCHDF/main/discord.png" width="32" height="32" align="center"> MCHDF#9999](https://discord.com)<br>
 💻 My Page: [Noob](http://mchdfpi.kro.kr)<br><br>
 ![MCHDF's github stats](https://github-readme-stats.vercel.app/api?username=MCHDF&hide=contribs,issues&hide_border=true)<br>
 ![MCHDF's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MCHDF&hide_border=true)
