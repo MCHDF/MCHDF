@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # MCHDF
-📫 Contact: [MCHDF#9999](https://discord.com)<br>
+📫 Dicsord Contact: [MCHDF#9999](https://discord.com)<br>
 💻 My Page: [Noob](http://mchdfpi.kro.kr)<br><br>
 ![MCHDF's github stats](https://github-readme-stats.vercel.app/api?username=MCHDF&hide=contribs,issues&hide_border=true)<br>
 ![MCHDF's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MCHDF&hide_border=true)
